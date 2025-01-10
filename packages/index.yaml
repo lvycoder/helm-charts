@@ -9,6 +9,6 @@ entries:
     name: my-ghost
     type: application
     urls:
-    - https://raw.githubusercontent.com/lvycoder/helm-charts/main/packages/my-ghost-0.1.0.tgz
+    - https://raw.githubusercontent.com/lvycoder/helm-charts/refs/heads/main/packages/my-ghost-0.1.0.tgz
     version: 0.1.0
 generated: "2025-01-10T23:40:39.392232+08:00"
