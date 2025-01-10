@@ -1,2 +1,2 @@
-# helmc-charts
+# helm-charts
 helm chart
